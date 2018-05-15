@@ -3,6 +3,7 @@
 Created on 2014年9月25日
 @author: Ayumi Phoenix
 #http://www.cnblogs.com/hanahimi/p/4011765.html
+#https://www.cnblogs.com/d-roger/articles/5719979.html
 '''
 import numpy as np
 
